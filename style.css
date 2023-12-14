@@ -1,0 +1,51 @@
+.titulo{
+
+    font-family: 'Inria Serif', serif;
+    text-align: center;
+    font-size: 96px; 
+    color:#967E84;
+   
+    
+}
+.Subtitulo{
+    font-family: 'Inria Serif', serif;
+    text-align: center;
+    font-size: 48px; 
+    
+
+}
+    
+.imagem1{
+     display:flex;
+     justify-content:center;
+     
+
+}
+
+.texto{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size:32px; 
+    
+}
+
+.subtitulo2{ 
+    font-family: 'Inria Serif', serif;
+    text-align: center;
+    font-size: 48px; 
+    
+}
+.imagem2{
+    display:flex;
+     justify-content:center;
+
+}
+
+.link{
+    
+    font-family: 'Inria Serif', serif;
+    font-family: 'Inter', sans-serif;
+    font-size:40px; 
+}
+
+
